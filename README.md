@@ -4,7 +4,7 @@ Welcome to the Whack-a-Chest game! In this interactive game, players earn points
 
 ## Demo
 
-![Whack-a-Chest-Game-Demo](images/demo.png)
+![Whack-a-Chest-Game-Demo](images/screenshot.png)
 
 ## Installation
 
