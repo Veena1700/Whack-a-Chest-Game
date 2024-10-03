@@ -1,0 +1,50 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: 0;
+    background: url(images/pirate-ship-background.jpg);
+    background-size: cover;
+    height: 700px;
+    user-select: none;
+}
+
+#board{
+    width: 540px;
+    height: 540px;
+
+    background-color:rgb(139, 235, 230);
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+
+    border: 3px solid white;
+    border-radius: 25px;
+}
+
+#board div{
+    width: 180px;
+    height: 180px;
+    background-image: url(images/water-well.png);
+    background-size: cover;
+    border-radius: 15px;
+}
+
+#board div img{
+    width: 90px;
+    height: 80px;
+}
+
+
+div button{
+    background-color: rgb(49, 138, 197);
+    color: white;
+    display: block;
+    padding: 7px 10px;
+    font-size: 16px;
+    font-weight: 500;
+    margin: 1% auto;
+    border: none;
+    border-radius: 4px;
+}
+
+
